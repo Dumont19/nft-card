@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
-@import '_general.css';
-@import '_card.css';
+@import 'general.css';
+@import 'card.css';
 @import 'media1440.css';
 
 :root {
